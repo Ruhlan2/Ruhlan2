@@ -1,4 +1,4 @@
- [![MasterHead](https://tms-outsource.com/blog/wp-content/uploads/2023/04/android-ide.jpg)
+ ![MasterHead](https://tms-outsource.com/blog/wp-content/uploads/2023/04/android-ide.jpg)
 <h1 align="center">Hi 👋, I'm Ruhlan Usubov</h1>
 <h3 align="center">Android Developer</h3>
 
