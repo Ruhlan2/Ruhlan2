@@ -1,4 +1,4 @@
- ![MasterHead](https://tms-outsource.com/blog/wp-content/uploads/2023/04/android-ide.jpg)
+ ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkgOxcXgfgpANt3NATySzNBCIqByIoNmuL2TXJzhH5uoNCm2DMMU-wbAyslQTyTfdRPclyIOgYj1YLQzdfZ4tUxLdgJNkxprIitgmMxJ6jXRm7nv0-ppAjczJY8iD29PE6_UC6MSePU0VtRWM8rVKR49ZF2c826xsFR17l2zYOtJ-i9ggX1AeuOxeD/s1600/Header%20-%20Android%20-%20MAD%20ADS_22%20Track%20Spotlights.png)
 <h1 align="center">Hi 👋, I'm Ruhlan Usubov</h1>
 <h3 align="center">Android Developer</h3>
 
